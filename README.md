@@ -6,7 +6,7 @@
 
 <!-- ═══ ANIMATED TYPING ROLES ═══ -->
 <a href="https://surajsurve4511.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+Architecting+Intelligent+Physical+Systems;%F0%9F%A4%96+From+Natural+Language+to+Physical+Kinematics;%F0%9F%9A%80+32%2B+Projects+%7C+1K%2B+Live+Users+%7C+GATE+DA+Qualified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%9A%A1+Architecting+Intelligent+Physical+Systems;%F0%9F%A4%96+From+Natural+Language+to+Physical+Kinematics;%F0%9F%9A%80+32%2B+Projects+%7C+1K%2B+Live+Users+%7C+GATE+DA+Qualified" alt="Typing SVG" />
 </a>
 
 <!-- ═══ SOCIAL LINKS ═══ -->
