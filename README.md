@@ -5,7 +5,7 @@
 
 <!-- ═══ ANIMATED TYPING ROLES ═══ -->
 <a href="https://surajsurve4511.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+Architecting+Intelligent+Physical+Systems;%F0%9F%A4%96+From+Natural+Language+to+Physical+Kinematics;%F0%9F%9A%80+32%2B+Projects+%7C+382%2B+Live+Users+%7C+GATE+DA+Qualified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+Architecting+Intelligent+Physical+Systems;%F0%9F%A4%96+From+Natural+Language+to+Physical+Kinematics;%F0%9F%9A%80+32%2B+Projects+%7C+1K%2B+Live+Users+%7C+GATE+DA+Qualified" alt="Typing SVG" />
 </a>
 
 <!-- ═══ SOCIAL LINKS ═══ -->
@@ -31,7 +31,7 @@ suraj@architect:~$ cat /etc/profile
 >
 > I don't just study AI — I **deploy** it. My work spans the full stack of intelligent systems: from servo-level
 > embedded firmware on physical robotic arms, to cloud-scale IoT infrastructure on AWS, to production mobile
-> apps used by **382+ real users**. Currently building full-body humanoid robots with natural language cognition.
+> apps used by **1K+ real users**. Currently building full-body humanoid robots with natural language cognition.
 
 ---
 
@@ -43,14 +43,14 @@ suraj@architect:~$ cat /etc/profile
 <tr>
 <td width="50%">
 
-🤖 **AI Robotics Engineer** @ **M CAD Solutions**
+🤖 **Physical AI Engineer** @ **M CAD Solutions**
 > Architecting **MANAS Humanoid Robot** — ROS2 + Isaac Sim + Qwen 4B LLM cognitive stack. Building 6-DOF robotic arms with NL Brain Nodes & AWS IoT telemetry.
 
 </td>
 <td width="50%">
 
 🌱 **AI Engineer** @ **FMCIII Pune (GrowBox)**
-> FastAPI + Supabase microservices for a 498+ plant species database. AI inference pipelines for plant identification & disease diagnosis. **382 live users.**
+> FastAPI + Supabase microservices for a 498+ plant species database. AI inference pipelines for plant identification & disease diagnosis. **1K+ live users.**
 
 </td>
 </tr>
@@ -169,7 +169,7 @@ suraj@architect:~$ cat /etc/profile
 |:---:|---|---|---|
 | 🟢 | **[MANAS Humanoid Robot](https://surajsurve4511.github.io/#systems)** | Full-body humanoid · ROS2 + Isaac Sim Digital Twin · Qwen 4B LLM HRI pipeline · 70-link Unity 6 studio · Optical-inertial mocap | `ROS2` `Isaac Sim` `Qwen 4B` `Unity 6` `C++` |
 | 🟢 | **[6-DOF AI Robotic Arm](https://surajsurve4511.github.io/#systems)** | NL Brain Node (Ollama + YOLO World) · Bidirectional Gazebo Twin · Kinesthetic learning · AWS IoT fleet telemetry | `MoveIt2` `YOLO World` `Ollama` `AWS IoT` |
-| 🟢 | **GrowBox — Play Store Live** | 382 users · AI plant diagnosis (Gemini Vision) · Gamification · Paystack payments · 4-stage CI/CD | `Flutter` `Supabase` `Gemini` `Next.js 16` |
+| 🟢 | **GrowBox — Play Store Live** | 1K+ users · AI plant diagnosis (Gemini Vision) · Gamification · Paystack payments · 4-stage CI/CD | `Flutter` `Supabase` `Gemini` `Next.js 16` |
 | 🟡 | **MessMaster Pro** | 36-table SaaS · Atomic Recipe Engine · KDS · Multi-tenant · QR ordering · 21 API modules | `React 19` `Express` `PostgreSQL` `JWT` |
 | 🟢 | **[Autonomous Drone RL](https://github.com/surajsurve4511/UAV-Strategic-Deconfliction-in-Shared-Airspace)** | Double DQN + HER · Attention sensor fusion (9 LiDAR + 5 cam) · 10K+ AirSim episodes · 11-skill curriculum | `PyTorch` `AirSim` `CUDA` |
 | 🟡 | **[AgriSmart](https://gitlab.com/surajsurve4511/shrushti)** | RAG + Gemini farm AI · Voice-first in 6 languages · Multimodal crop diagnosis | `React` `Gemini` `ChromaDB` |
