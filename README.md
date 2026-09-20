@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ═══ ANIMATED HEADER BANNER ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SURAJ%20SURVE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pro%20AI%20Scientist%20%7C%20Physical%20AI%20%26%20Robotics%20Architect%20%7C%20GATE%20DA%20Qualified&descAlignY=58&descAlign=50&descSize=18&stroke=00f0ff&strokeWidth=1"/>
+<h1 align="center">SURAJ SURVE</h1>
+<h3 align="center">Pro AI Scientist | Physical AI & Robotics Architect | GATE DA Qualified</h3>
 
 <!-- ═══ ANIMATED TYPING ROLES ═══ -->
 <a href="https://surajsurve4511.github.io/">
@@ -291,8 +292,6 @@ suraj@architect:~$ cat /etc/profile
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontSize=0"/>
 
 <p>
   <a href="https://surajsurve4511.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=00f0ff" /></a>
