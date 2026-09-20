@@ -28,7 +28,7 @@
 suraj@architect:~$ cat /etc/profile
 ```
 
-> **2nd Year B.Tech AI & DS** @ MMCOE Pune (Grade A) · **GATE DA Qualified** · 📍 Pune, India
+> **Final Year B.Tech AI & DS** @ MMCOE Pune (Grade A) · **GATE DA Qualified** · 📍 Pune, India
 >
 > I don't just study AI — I **deploy** it. My work spans the full stack of intelligent systems: from servo-level
 > embedded firmware on physical robotic arms, to cloud-scale IoT infrastructure on AWS, to production mobile
