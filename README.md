@@ -157,6 +157,23 @@ suraj@architect:~$ cat /etc/profile
 </p>
 </details>
 
+<details open>
+<summary><b>🟩 NVIDIA Robotics & AI Ecosystem</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isaac_ROS-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isaac_Gym-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project_GR00T-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Omniverse-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenUSD-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetson_&_JetPack-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+</p>
+</details>
+
 ---
 
 <!-- ═══ PROJECTS TABLE ═══ -->
@@ -195,21 +212,7 @@ suraj@architect:~$ cat /etc/profile
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajsurve4511&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsurve4511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=10" width="48%" />
-</p>
-
-<!-- ═══ TROPHIES ═══ -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajsurve4511&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
-
-<!-- ═══ ACTIVITY GRAPH ═══ -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajsurve4511&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f0ff&line=7b61ff&point=00f0ff&area=true&area_color=7b61ff" width="100%" />
-</p>
+<!-- Note: Top Langs, Trophies, and Activity Graph removed because the external Vercel APIs are currently returning 402/503 errors and showing broken images -->
 
 ---
 
@@ -237,6 +240,7 @@ suraj@architect:~$ cat /etc/profile
 
 <!-- ═══ CONTRIBUTION SNAKE ═══ -->
 
+<!--
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surajsurve4511/surajsurve4511/output/github-contribution-grid-snake-dark.svg">
@@ -244,6 +248,7 @@ suraj@architect:~$ cat /etc/profile
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/surajsurve4511/surajsurve4511/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </p>
+-->
 
 <!--
 ╔═══════════════════════════════════════════════════════════════╗
